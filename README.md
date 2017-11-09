@@ -15,5 +15,7 @@ AngularJs - Gulp - Setup
 
 > npm install --save-dev browser-sync
 
+> gulp build
+
 > gulp start
 
