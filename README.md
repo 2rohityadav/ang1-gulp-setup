@@ -1,7 +1,7 @@
 # ang1-gulp-setup
 AngularJs - Gulp - Setup
 
-## Dependecies installation
+## Commands for creating setup
 
 > npm init
 
